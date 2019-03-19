@@ -13,6 +13,35 @@
 A3.2 write subprograms (e.g., functions, proce- dures) that use parameter passing and appropriate variable scope (e.g., local, global),
 to perform tasks within programs.
 
+## Part 1 - Article & Response
 
-Find an article
-Who is affected
+### Step 1 - Sign up to Flipboard
+[Sign up with Flipboard.com](https://docs.google.com/document/d/1MFu7yAbYy8OmR93q37JYm04KME2b08t1d4mdv1arABc/edit?usp=sharing) and use the search tool to follow topics related to this course.
+
+
+### Step 2 - Find an article
+Find an article related to the *negative effects* of computer use on the environment and on human health.
+
+### Step 3 - Analysis
+In the **response.md** file, use  [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in Pycharm to properly format a response in the following manner: 
+
+#### Section 1 (250 words)
+* What are the negative effects described in the article?
+* Describe the implications of these effects?
+
+#### Section 2 (250 words)
+* Identify measures that help reduce the impact of computers on the environment and on human health 
+
+### Formatting
+As mentioned above, you will use [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to properly format your response.
+* Use subheader formatting to organize your response in the indicated sections.
+* Use [link formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) to create links from important concepts in your response to other sources related to the concepts.
+
+
+## Part 2 - Python Arcade
+In the **arcade_assignment.py** file, use Python Arcade to create a visual representation related to the negative effect covered in **Part 1**.  You will:
+* Seek opportunities to define functions to draw complex objects.  That is, these functions **should not** consist of one line of code (i.e draw a rectangle), but multiple lines to draw a cohesive object.
+* Seek opportunities to define functions that use parameters to successfully position the objects or multiple instances of an objects.
+* Draw text
+* Optionally use an image as a background and/or as part of an object drawn by a function you've defined
+* Make use of global variables to *animate* at least one object.
