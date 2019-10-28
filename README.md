@@ -15,14 +15,11 @@ to perform tasks within programs.
 
 ## Part 1 - Article & Response
 
-### Step 1 - Sign up to Flipboard
-[Sign up with Flipboard.com](https://docs.google.com/document/d/1MFu7yAbYy8OmR93q37JYm04KME2b08t1d4mdv1arABc/edit?usp=sharing) and use the search tool to follow topics related to this course.
 
-
-### Step 2 - Find an article
+### Step 1 - Find an article
 Find an article related to the *negative effects* of computer use on the environment and on human health.
 
-### Step 3 - Analysis
+### Step 2 - Analysis
 In the **response.md** file, use  [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in Pycharm to properly format a response in the following manner: 
 
 #### Section 1 (250 words)
